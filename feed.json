@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "เกษตรกรรม",
+    "description": "",
+    "home_page_url": "https://hoboctn.github.io/kasettakram",
+    "feed_url": "https://hoboctn.github.io/kasettakram/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ทุเรียน"
+    },
+    "items": [
+    ]
+}
